@@ -1,3 +1,3 @@
-# CppUmlCollection
+# CppUml Collection
 
-CppUmlCollection is part of [CppUmlFramework](https://github.com/KVic/CppUmlFramework).
+The CppUml Collection is part of the CppUml Framework.
